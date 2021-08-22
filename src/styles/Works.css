@@ -1,0 +1,59 @@
+.works {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-bottom: 150px;
+  width: fit-content;
+}
+
+.rows {
+  display: flex;
+  flex-direction: column;
+}
+
+.first_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.second_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.third_row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.works p {
+  padding-bottom: 50px;
+  font-family: "Nunito", sans-serif;
+}
+
+.rectangle {
+  width: 280px;
+  height: 240px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  margin: 15px;
+  transition: 0.5s ease;
+  box-shadow: 0 1px 15px rgb(168, 168, 168);
+}
+
+.rectangle:hover {
+  transform: scale(1.1);
+}
+
+.rectangle1 {
+  width: 280px;
+  height: 240px;
+  background-color: green;
+  border-radius: 10px;
+  margin: 15px;
+  transition: 0.5s ease;
+}
+
+.rectangle1:hover {
+  transform: scale(1.1);
+}

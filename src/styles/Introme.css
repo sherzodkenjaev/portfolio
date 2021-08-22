@@ -1,0 +1,15 @@
+.introme {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: #7510f7;
+  padding: 100px 0px 210px 0px;
+  color: white;
+  word-spacing: 3px;
+  letter-spacing: 2px;
+  font-family: "Nunito", sans-serif;
+}
+
+.introme .container {
+  width: 50%;
+}

@@ -1,0 +1,41 @@
+.intro {
+  display: flex;
+  height: 100vh;
+  flex-direction: column;
+  align-items: center;
+}
+
+.intro h1 {
+  color: #7510f7;
+  margin: 100px 0 20px 0;
+  letter-spacing: 2px;
+  font-size: 3rem;
+  font-family: "Archivo Black", sans-serif;
+  text-shadow: 1px 1px 4px #646464;
+}
+
+@media screen and (max-width: 800px) {
+  .intro > h1 {
+    font-size: 2.5rem;
+    text-align: center;
+  }
+}
+
+.intro img {
+  margin-top: 50px;
+}
+
+.avatar {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100%;
+  box-shadow: 0 0 10px rgb(182, 182, 182);
+}
+
+@media screen and (max-width: 500px) {
+  .hero {
+    width: 500px;
+    height: fit-content;
+  }
+}

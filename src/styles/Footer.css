@@ -1,0 +1,47 @@
+.footer {
+  height: 450px;
+  background-color: #7510f7;
+  text-align: center;
+}
+
+.resume {
+  border-radius: 10px;
+  height: 160px;
+  box-shadow: 0 1px 5px rgb(27, 27, 27);
+  background-color: #141c3a;
+  position: relative;
+  bottom: 75px;
+  text-align: center;
+}
+
+.resume h3 {
+  display: inline-block;
+  color: white;
+  font-family: "Nunito", sans-serif;
+  margin-top: 60px;
+  margin-right: 60px;
+}
+
+.resume button {
+  margin-bottom: 10px;
+}
+
+.footerIcons {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.footerIcons p {
+  padding: 10px;
+}
+
+.footer h1 {
+  color: white;
+}
+
+.footer e {
+  position: relative;
+  color: white;
+  top: 40px;
+}
