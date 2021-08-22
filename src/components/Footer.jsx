@@ -31,7 +31,7 @@ function Footer() {
               <Fab
                 color="primary"
                 aria-label="add"
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/SherzodKenjaevAlisherovich/"
               >
                 <FacebookIcon />
               </Fab>
@@ -40,7 +40,7 @@ function Footer() {
               <Fab
                 color="primary"
                 aria-label="add"
-                href="https://www.facebook.com/"
+                href="https://www.linkedin.com/in/sherzod-kenjaev-alisherovich/"
               >
                 <LinkedInIcon />
               </Fab>
@@ -49,7 +49,7 @@ function Footer() {
               <Fab
                 color="primary"
                 aria-label="add"
-                href="https://www.facebook.com/"
+                href="mailto:kenjaevsherzod@ygmail.com"
               >
                 <MailOutlineIcon />
               </Fab>
@@ -58,18 +58,9 @@ function Footer() {
               <Fab
                 color="primary"
                 aria-label="add"
-                href="https://www.facebook.com/"
+                href="https://t.me/kenjaevsherzod"
               >
                 <TelegramIcon />
-              </Fab>
-            </p>
-            <p>
-              <Fab
-                color="primary"
-                aria-label="add"
-                href="https://www.facebook.com/"
-              >
-                <TwitterIcon />
               </Fab>
             </p>
           </div>
