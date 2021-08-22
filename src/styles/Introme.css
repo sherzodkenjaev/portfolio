@@ -13,3 +13,9 @@
 .introme .container {
   width: 50%;
 }
+
+@media screen and (max-width: 750px) {
+  .introme .container {
+    width: 80%;
+  }
+}

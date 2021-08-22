@@ -9,7 +9,7 @@ function Introme() {
         <Fade bottom>
           <h1>Nice to meet you</h1>
           <br />
-          <p>
+          <p className="intromeText">
             I'm a self-taught frontend web developer. My interests are finding
             job with future career prospects, looking forward to get high
             experience by working with specialists and the ability to realize

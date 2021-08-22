@@ -17,6 +17,7 @@
   .intro > h1 {
     font-size: 2.5rem;
     text-align: center;
+    width: 80%;
   }
 }
 
@@ -38,7 +39,7 @@
 
 @media screen and (max-width: 500px) {
   .hero {
-    width: 500px;
+    width: 300px;
     height: fit-content;
   }
 }

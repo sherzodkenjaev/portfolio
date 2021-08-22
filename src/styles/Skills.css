@@ -39,3 +39,20 @@
 .rightBorder {
   border-right: 1px solid rgb(197, 197, 197);
 }
+
+@media screen and (max-width: 750px) {
+  .rightBorder {
+    border-right: none;
+  }
+  .skillsText {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .skills {
+    width: 80%;
+  }
+  .skillsText {
+    margin: 0;
+  }
+}
