@@ -8,9 +8,9 @@ import "../styles/Intro.css";
 function Intro() {
   return (
     <div className="intro">
-      <LightSpeed left cascade>
+      <Fade bottom>
         <h1>Hi I'm Sherzod Front-end Developer</h1>
-      </LightSpeed>
+      </Fade>
       <Fade bottom>
         <img className="avatar" src={avatar} />
       </Fade>
