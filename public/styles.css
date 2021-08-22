@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-.scrollToTop {
+/* .scrollToTop {
   z-index: 999;
   position: fixed;
   background: crimson;
@@ -25,4 +25,4 @@ body {
 .scrollToTop.active {
   right: 20px;
   opacity: 1;
-}
+} */

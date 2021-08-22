@@ -183,7 +183,7 @@ function Works() {
               <InBox
                 theState={isRec11}
                 setState={setIsRec11}
-                href="https://www.google.com/"
+                href="https://sherzodkenjaev.github.io/portfolio/"
                 title="Technologies Used"
                 text="HTML | CSS | JavaScript | ReactJS | React Reveal | Bootstrap | Material UI"
                 image={notallowed}

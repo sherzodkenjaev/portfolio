@@ -7,6 +7,8 @@ import TelegramIcon from "@material-ui/icons/Telegram";
 import TwitterIcon from "@material-ui/icons/Twitter";
 import Fade from "react-reveal/Fade";
 import "../styles/Footer.css";
+import { GetApp } from "@material-ui/icons";
+import resumeSherzod from "../Sherzod_Kenjaev_Resume_en.docx";
 
 function Footer() {
   let year = new Date();
@@ -17,9 +19,9 @@ function Footer() {
         <Fade bottom>
           <div className="resume">
             <h3>If you need more info please download my resume</h3>
-            <button type="button" class="btn btn-success">
-              Success
-            </button>
+            <a href={resumeSherzod} className="resumeLink btn btn-success">
+              <GetApp />
+            </a>
           </div>
         </Fade>
         <h1>SK</h1>
@@ -73,7 +75,7 @@ function Footer() {
           </div>
         </Fade>
         <e>
-          Made by me <span>&copy;</span> {year.getFullYear()}
+          Sherzod Kenjaev <span>&copy;</span> {year.getFullYear()}
         </e>
       </div>
     </div>

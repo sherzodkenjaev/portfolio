@@ -1,5 +1,5 @@
 import React from "react";
-import avatar from "../img/Sherzod.png";
+import avatar from "../img/sherzod.jpg";
 import hero from "../img/hero.svg";
 import LightSpeed from "react-reveal/LightSpeed";
 import Fade from "react-reveal/Fade";
