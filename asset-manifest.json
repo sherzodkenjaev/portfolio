@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.06248135.chunk.css",
-    "main.js": "/portfolio/static/js/main.43780084.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.43780084.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.67feb253.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.67feb253.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.25b84280.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.25b84280.js.map",
     "static/js/2.821388b1.chunk.js": "/portfolio/static/js/2.821388b1.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/portfolio/index.html",
     "static/css/main.06248135.chunk.css.map": "/portfolio/static/css/main.06248135.chunk.css.map",
     "static/js/2.821388b1.chunk.js.LICENSE.txt": "/portfolio/static/js/2.821388b1.chunk.js.LICENSE.txt",
-    "static/media/Sherzod_Kenjaev_Resume_en.73be55d8.docx": "/portfolio/static/media/Sherzod_Kenjaev_Resume_en.73be55d8.docx",
+    "static/media/Sherzod_Kenjaev_Resume_en.7c439709.docx": "/portfolio/static/media/Sherzod_Kenjaev_Resume_en.7c439709.docx",
     "static/media/amazon_clone.f8ee4747.png": "/portfolio/static/media/amazon_clone.f8ee4747.png",
     "static/media/dice_game.76e85ac4.png": "/portfolio/static/media/dice_game.76e85ac4.png",
     "static/media/drumkit.ddabe069.png": "/portfolio/static/media/drumkit.ddabe069.png",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.25b84280.js",
     "static/js/2.821388b1.chunk.js",
     "static/css/main.06248135.chunk.css",
-    "static/js/main.43780084.chunk.js"
+    "static/js/main.67feb253.chunk.js"
   ]
 }
