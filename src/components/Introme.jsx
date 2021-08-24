@@ -10,14 +10,14 @@ function Introme() {
           <h1>Nice to meet you</h1>
           <br />
           <p className="intromeText">
-            I'm a self-taught frontend web developer. My interests are finding
-            job with future career prospects, looking forward to get high
-            experience by working with specialists and the ability to realize
-            own potential and to be as helpful as possible to the overall team.
-            I love developing productive and user friendly products. I use my
-            maximal capabilities to complete tasks on hand. My thirst for
-            knowledge and new skills help me to be up to date with industry
-            standards.
+            I'm a frontend web developer. My interests are finding job with
+            future career prospects, looking forward to get high experience by
+            working with specialists and the ability to realize own potential
+            and to be as helpful as possible to the overall team. I love
+            developing thoughtful and purposeful websites. I try to complete
+            products by using my maximum capability in delivering apps on time.
+            My purpose of becoming the best in the sphere forces me to be up to
+            date with industry standards.
           </p>
         </Fade>
       </div>
