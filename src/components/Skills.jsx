@@ -34,6 +34,7 @@ function Skills() {
             <h3>Techs I use</h3>
             <p>Material UI</p>
             <p>React Routing</p>
+            <p>Rest API</p>
             <p>Firebase</p>
             <p>React Cotext API</p>
             <p>React Reveal</p>

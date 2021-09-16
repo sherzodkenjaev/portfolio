@@ -9,7 +9,7 @@ import dice from "../img/dice_game.png";
 import drumkit from "../img/drumkit.png";
 import howmany from "../img/howmany.png";
 import linkedin from "../img/linkedin_clone.png";
-import notallowed from "../img/not_allowed.png";
+import mywebsite from "../img/my-website.png";
 import simon from "../img/simon_game.png";
 import sktech from "../img/sk_tech_shopping.png";
 import studentlist from "../img/student_list.png";
@@ -186,7 +186,7 @@ function Works() {
                 href="https://sherzodkenjaev.github.io/portfolio/"
                 title="Technologies Used"
                 text="HTML | CSS | JavaScript | ReactJS | React Reveal | Bootstrap | Material UI"
-                image={notallowed}
+                image={mywebsite}
               />
             }
           </div>

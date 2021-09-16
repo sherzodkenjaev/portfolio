@@ -8,7 +8,7 @@ import TwitterIcon from "@material-ui/icons/Twitter";
 import Fade from "react-reveal/Fade";
 import "../styles/Footer.css";
 import { GetApp } from "@material-ui/icons";
-import resumeSherzod from "../Sherzod_Kenjaev_Resume_en.docx";
+import resumeSherzod from "../Sherzod_Kenjaev_Resume_en.pdf";
 
 function Footer() {
   let year = new Date();
