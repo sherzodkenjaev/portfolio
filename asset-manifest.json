@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.06248135.chunk.css",
-    "main.js": "/portfolio/static/js/main.14403bc3.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.14403bc3.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.e93daa75.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.e93daa75.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.25b84280.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.25b84280.js.map",
     "static/js/2.86386f32.chunk.js": "/portfolio/static/js/2.86386f32.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/hero.5c8568c2.svg": "/portfolio/static/media/hero.5c8568c2.svg",
     "static/media/linkedin_clone.f4e2d283.png": "/portfolio/static/media/linkedin_clone.f4e2d283.png",
     "static/media/my-website.88d73554.png": "/portfolio/static/media/my-website.88d73554.png",
-    "static/media/sherzod.d825ba3f.jpg": "/portfolio/static/media/sherzod.d825ba3f.jpg",
+    "static/media/sherzod.a0fdd7bf.jpg": "/portfolio/static/media/sherzod.a0fdd7bf.jpg",
     "static/media/simon_game.63e26f21.png": "/portfolio/static/media/simon_game.63e26f21.png",
     "static/media/sk_tech_shopping.919303f5.png": "/portfolio/static/media/sk_tech_shopping.919303f5.png",
     "static/media/student_list.730cf7d0.png": "/portfolio/static/media/student_list.730cf7d0.png",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.25b84280.js",
     "static/js/2.86386f32.chunk.js",
     "static/css/main.06248135.chunk.css",
-    "static/js/main.14403bc3.chunk.js"
+    "static/js/main.e93daa75.chunk.js"
   ]
 }
